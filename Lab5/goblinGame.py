@@ -44,7 +44,7 @@ class Medusa(GameObject):
     def __init__(self,name):
         self.class_name = "medusa"
         self.health = 3
-        self.desc = "an evil half snake half women creature"
+        self.desc = "an evil half snake half woman creature"
         self.xp = 90
         super().__init__(name)
 
